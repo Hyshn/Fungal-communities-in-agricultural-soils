@@ -1,4 +1,4 @@
-### System requirements
+## System requirements
 
 Some of the data analysis in this study was based on R and RStudio (open source).
 The latest version of these open source software can be downloaded from the official website:
