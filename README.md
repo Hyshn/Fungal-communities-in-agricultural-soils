@@ -1,4 +1,4 @@
-## System requirements
+### System requirements
 
 Some of the data analysis in this study was based on R and RStudio (open source).
 The latest version of these open source software can be downloaded from the official website:
@@ -9,7 +9,7 @@ Our code has been tested on the following version of software on Windows 10 (64b
 1.R: R for Windows (version: 4.2.2)
 2.RStudio: RStudio Desktop for Windows (Version: 2022.07.2+576)
 
----
+--
 
 *Installation guide*
 
