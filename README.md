@@ -1,23 +1,24 @@
-### System requirements
+###System requirements
 
 Some of the data analysis in this study was based on R and RStudio (open source).
 The latest version of these open source software can be downloaded from the official website:
-1.R: https://cran.rstudio.com/
-2.RStudio: https://posit.co/download/rstudio-desktop/
+1. R: https://cran.rstudio.com/
+2. RStudio: https://posit.co/download/rstudio-desktop/
 
 Our code has been tested on the following version of software on Windows 10 (64bit) operation system:
-1.R: R for Windows (version: 4.2.2)
-2.RStudio: RStudio Desktop for Windows (Version: 2022.07.2+576)
-
---
-
-*Installation guide*
-
-It will only take about ten minutes for installation of the software above, which can be easily done following the guide showed in the installation file. 
+1. R: R for Windows (version: 4.2.2)
+2. RStudio: RStudio Desktop for Windows (Version: 2022.07.2+576)
 
 ---
 
-*Demo*
+###Installation guide
+
+1. It will only take about ten minutes for installation of the software above
+2. The installation can be easily done following the guide showed in the installation file. 
+
+---
+
+###Demo
 
 We provide the following files in the demo folder:
 1. demo code file No.1: R code demo_alpha diversity.R
@@ -41,7 +42,7 @@ Output:
 
 ---
 
-*Instructions for use*
+###Instructions for use
 
 How to run the code on the demo data:
 1.install R and then RStudio;
@@ -51,5 +52,5 @@ How to run the code on the demo data:
 5.run the code.(The running should be done in less than a minute. Please accept when necessary R packages were requested to install by the software.)
 
 Reproduction instructions:
-All OTU table data and the group information involved in this study can be found the in source data package.
+1. All OTU table data and the group information involved in this study can be found the in 2. source data package.
 Tips: the data file should be transformed to "csv" or "txt" format before being loaded to this program.
