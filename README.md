@@ -1,4 +1,4 @@
-#System requirements
+### System requirements
 
 Some of the data analysis in this study was based on R and RStudio (open source).
 The latest version of these open source software can be downloaded from the official website:
@@ -11,14 +11,14 @@ Our code has been tested on the following version of software on Windows 10 (64b
 
 ---
 
-###Installation guide
+### Installation guide
 
 1. It will only take about ten minutes for installation of the software above
 2. The installation can be easily done following the guide showed in the installation file. 
 
 ---
 
-###Demo
+### Demo
 
 We provide the following files in the demo folder:
 1. demo code file No.1: R code demo_alpha diversity.R
@@ -42,7 +42,7 @@ Output:
 
 ---
 
-###Instructions for use
+### Instructions for use
 
 How to run the code on the demo data:
 1.install R and then RStudio;
